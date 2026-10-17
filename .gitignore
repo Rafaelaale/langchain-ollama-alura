@@ -1,4 +1,7 @@
-#env
-*.env
-
-langchain
+﻿.venv/
+__pycache__/
+.env
+.env.*
+*.pkl
+.ipynb_checkpoints/
+aulas/indice_pdfs/
